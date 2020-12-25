@@ -11,7 +11,7 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 clone the repo with
 
 ```bash
-git clone https://github.com/radikz/Lara-TODO-APP.git
+git clone https://github.com/radikz/Lara-TODOS-APP.git
 ```
 ### Prerequisites
 
